@@ -1,0 +1,194 @@
+[2025-04-27T15:36:31.121+0000] {processor.py:161} INFO - Started process (PID=152) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:36:31.122+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:36:31.124+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:36:31.123+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:36:31.125+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:36:31.139+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.020 seconds
+[2025-04-27T15:37:01.615+0000] {processor.py:161} INFO - Started process (PID=168) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:37:01.616+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:37:01.618+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:37:01.618+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:37:01.621+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:37:01.636+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.026 seconds
+[2025-04-27T15:37:32.069+0000] {processor.py:161} INFO - Started process (PID=184) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:37:32.070+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:37:32.072+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:37:32.071+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:37:32.073+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:37:32.085+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.022 seconds
+[2025-04-27T15:38:02.541+0000] {processor.py:161} INFO - Started process (PID=200) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:38:02.542+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:38:02.545+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:38:02.545+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:38:02.547+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:38:02.559+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.023 seconds
+[2025-04-27T15:38:32.944+0000] {processor.py:161} INFO - Started process (PID=216) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:38:32.945+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:38:32.947+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:38:32.946+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:38:32.949+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:38:32.963+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.024 seconds
+[2025-04-27T15:39:03.359+0000] {processor.py:161} INFO - Started process (PID=233) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:39:03.360+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:39:03.362+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:39:03.362+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:39:03.365+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:39:03.378+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.024 seconds
+[2025-04-27T15:39:33.788+0000] {processor.py:161} INFO - Started process (PID=249) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:39:33.790+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:39:33.792+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:39:33.792+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:39:33.794+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:39:33.808+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.026 seconds
+[2025-04-27T15:40:04.236+0000] {processor.py:161} INFO - Started process (PID=265) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:40:04.238+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:40:04.240+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:40:04.239+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:40:04.242+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:40:04.253+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.021 seconds
+[2025-04-27T15:40:22.532+0000] {processor.py:161} INFO - Started process (PID=281) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:40:22.533+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:40:22.534+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:40:22.534+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:40:22.537+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:40:22.551+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.020 seconds
+[2025-04-27T15:40:52.947+0000] {processor.py:161} INFO - Started process (PID=297) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:40:52.948+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:40:52.949+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:40:52.949+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:40:52.951+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:40:52.963+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.018 seconds
+[2025-04-27T15:41:23.392+0000] {processor.py:161} INFO - Started process (PID=313) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:41:23.393+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:41:23.395+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:41:23.395+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:41:23.397+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:41:23.408+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.020 seconds
+[2025-04-27T15:41:53.836+0000] {processor.py:161} INFO - Started process (PID=329) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:41:53.837+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:41:53.838+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:41:53.838+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:41:53.840+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:41:53.851+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.020 seconds
+[2025-04-27T15:42:24.274+0000] {processor.py:161} INFO - Started process (PID=345) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:42:24.275+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:42:24.277+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:42:24.277+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:42:24.279+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:42:24.290+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.020 seconds
+[2025-04-27T15:42:54.702+0000] {processor.py:161} INFO - Started process (PID=361) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:42:54.704+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:42:54.706+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:42:54.705+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:42:54.707+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:42:54.721+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.023 seconds
+[2025-04-27T15:43:25.129+0000] {processor.py:161} INFO - Started process (PID=377) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:43:25.130+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:43:25.132+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:43:25.132+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:43:25.134+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:43:25.143+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.017 seconds
+[2025-04-27T15:43:55.570+0000] {processor.py:161} INFO - Started process (PID=393) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:43:55.571+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:43:55.573+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:43:55.572+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:43:55.574+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:43:55.587+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.021 seconds
+[2025-04-27T15:44:26.001+0000] {processor.py:161} INFO - Started process (PID=409) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:44:26.003+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:44:26.005+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:44:26.004+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:44:26.006+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:44:26.019+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.022 seconds
+[2025-04-27T15:44:56.417+0000] {processor.py:161} INFO - Started process (PID=425) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:44:56.417+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:44:56.419+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:44:56.419+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:44:56.421+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:44:56.431+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.017 seconds
+[2025-04-27T15:45:26.811+0000] {processor.py:161} INFO - Started process (PID=441) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:45:26.811+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:45:26.812+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:45:26.812+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:45:26.813+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:45:26.822+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.013 seconds
+[2025-04-27T15:45:57.221+0000] {processor.py:161} INFO - Started process (PID=457) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:45:57.223+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:45:57.225+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:45:57.224+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:45:57.226+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:45:57.241+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.023 seconds
+[2025-04-27T15:46:27.719+0000] {processor.py:161} INFO - Started process (PID=473) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:46:27.720+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:46:27.722+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:46:27.722+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:46:27.724+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:46:27.737+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.022 seconds
+[2025-04-27T15:46:58.183+0000] {processor.py:161} INFO - Started process (PID=489) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:46:58.185+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:46:58.186+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:46:58.186+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:46:58.188+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:46:58.199+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.019 seconds
+[2025-04-27T15:47:28.620+0000] {processor.py:161} INFO - Started process (PID=505) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:47:28.621+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:47:28.623+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:47:28.623+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:47:28.625+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:47:28.636+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.020 seconds
+[2025-04-27T15:47:58.979+0000] {processor.py:161} INFO - Started process (PID=521) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:47:58.979+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:47:58.981+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:47:58.981+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:47:58.982+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:47:58.992+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.016 seconds
+[2025-04-27T15:48:29.413+0000] {processor.py:161} INFO - Started process (PID=537) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:48:29.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:48:29.416+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:48:29.416+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:48:29.418+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:48:29.426+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.018 seconds
+[2025-04-27T15:48:59.819+0000] {processor.py:161} INFO - Started process (PID=553) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:48:59.821+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:48:59.822+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:48:59.822+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:48:59.824+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:48:59.835+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.019 seconds
+[2025-04-27T15:49:30.250+0000] {processor.py:161} INFO - Started process (PID=569) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:49:30.251+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:49:30.253+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:49:30.253+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:49:30.255+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:49:30.266+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.021 seconds
+[2025-04-27T15:50:00.631+0000] {processor.py:161} INFO - Started process (PID=585) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:50:00.632+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:50:00.634+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:50:00.634+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:50:00.635+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:50:00.646+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.018 seconds
+[2025-04-27T15:50:31.057+0000] {processor.py:161} INFO - Started process (PID=601) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:50:31.058+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:50:31.059+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:50:31.058+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:50:31.063+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:50:31.061+0000] {dagbag.py:565} ERROR - [Errno 1] Operation not permitted: '/opt/airflow/dags/output/teste_tratado_José.xlsx'
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 552, in collect_dags
+    found_dags = self.process_file(filepath, only_if_updated=only_if_updated, safe_mode=safe_mode)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 309, in process_file
+    mods = self._load_modules_from_file(filepath, safe_mode)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 321, in _load_modules_from_file
+    if not might_contain_dag(filepath, safe_mode):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/utils/file.py", line 341, in might_contain_dag
+    return might_contain_dag_callable(file_path=file_path, zip_file=zip_file)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/utils/file.py", line 358, in might_contain_dag_via_default_heuristic
+    with open(file_path, "rb") as dag_file:
+PermissionError: [Errno 1] Operation not permitted: '/opt/airflow/dags/output/teste_tratado_José.xlsx'
+[2025-04-27T15:50:31.063+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:50:31.075+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.022 seconds
+[2025-04-27T15:51:01.396+0000] {processor.py:161} INFO - Started process (PID=613) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:51:01.398+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:51:01.399+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:51:01.398+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:51:01.401+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:51:01.400+0000] {dagbag.py:565} ERROR - [Errno 1] Operation not permitted: '/opt/airflow/dags/output/teste_tratado_José.xlsx'
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 552, in collect_dags
+    found_dags = self.process_file(filepath, only_if_updated=only_if_updated, safe_mode=safe_mode)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 309, in process_file
+    mods = self._load_modules_from_file(filepath, safe_mode)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 321, in _load_modules_from_file
+    if not might_contain_dag(filepath, safe_mode):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/utils/file.py", line 341, in might_contain_dag
+    return might_contain_dag_callable(file_path=file_path, zip_file=zip_file)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/utils/file.py", line 358, in might_contain_dag_via_default_heuristic
+    with open(file_path, "rb") as dag_file:
+PermissionError: [Errno 1] Operation not permitted: '/opt/airflow/dags/output/teste_tratado_José.xlsx'
+[2025-04-27T15:51:01.401+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:51:01.411+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.019 seconds
+[2025-04-27T15:51:31.735+0000] {processor.py:161} INFO - Started process (PID=623) to work on /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:51:31.736+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/output/teste_tratado_José.xlsx for tasks to queue
+[2025-04-27T15:51:31.737+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:51:31.737+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:51:31.740+0000] {logging_mixin.py:188} INFO - [2025-04-27T15:51:31.739+0000] {dagbag.py:565} ERROR - [Errno 1] Operation not permitted: '/opt/airflow/dags/output/teste_tratado_José.xlsx'
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 552, in collect_dags
+    found_dags = self.process_file(filepath, only_if_updated=only_if_updated, safe_mode=safe_mode)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 309, in process_file
+    mods = self._load_modules_from_file(filepath, safe_mode)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 321, in _load_modules_from_file
+    if not might_contain_dag(filepath, safe_mode):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/utils/file.py", line 341, in might_contain_dag
+    return might_contain_dag_callable(file_path=file_path, zip_file=zip_file)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/utils/file.py", line 358, in might_contain_dag_via_default_heuristic
+    with open(file_path, "rb") as dag_file:
+PermissionError: [Errno 1] Operation not permitted: '/opt/airflow/dags/output/teste_tratado_José.xlsx'
+[2025-04-27T15:51:31.740+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/output/teste_tratado_José.xlsx
+[2025-04-27T15:51:31.749+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/output/teste_tratado_José.xlsx took 0.019 seconds

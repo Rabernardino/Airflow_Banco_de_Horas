@@ -1,0 +1,20 @@
+[2025-04-27T15:24:07.845+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: email_sender.enviar_emails manual__2025-04-27T15:24:04.462564+00:00 [queued]>
+[2025-04-27T15:24:07.848+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: email_sender.enviar_emails manual__2025-04-27T15:24:04.462564+00:00 [queued]>
+[2025-04-27T15:24:07.848+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 1
+[2025-04-27T15:24:07.852+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): enviar_emails> on 2025-04-27 15:24:04.462564+00:00
+[2025-04-27T15:24:07.854+0000] {standard_task_runner.py:60} INFO - Started process 186 to run task
+[2025-04-27T15:24:07.856+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'email_sender', 'enviar_emails', 'manual__2025-04-27T15:24:04.462564+00:00', '--job-id', '24', '--raw', '--subdir', 'DAGS_FOLDER/email_sender_dag.py', '--cfg-path', '/tmp/tmp5aucocg8']
+[2025-04-27T15:24:07.857+0000] {standard_task_runner.py:88} INFO - Job 24: Subtask enviar_emails
+[2025-04-27T15:24:07.945+0000] {task_command.py:423} INFO - Running <TaskInstance: email_sender.enviar_emails manual__2025-04-27T15:24:04.462564+00:00 [running]> on host 7eeb628339b5
+[2025-04-27T15:24:07.969+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='email_sender' AIRFLOW_CTX_TASK_ID='enviar_emails' AIRFLOW_CTX_EXECUTION_DATE='2025-04-27T15:24:04.462564+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-04-27T15:24:04.462564+00:00'
+[2025-04-27T15:24:11.857+0000] {logging_mixin.py:188} INFO - Email enviado para lider_alfa@outlook.com com sucesso!
+[2025-04-27T15:24:15.373+0000] {logging_mixin.py:188} INFO - Email enviado para lider_alfa@outlook.com com sucesso!
+[2025-04-27T15:24:19.021+0000] {logging_mixin.py:188} INFO - Email enviado para lider_alfa@outlook.com com sucesso!
+[2025-04-27T15:24:23.181+0000] {logging_mixin.py:188} INFO - Email enviado para lider_alfa@outlook.com com sucesso!
+[2025-04-27T15:24:26.583+0000] {logging_mixin.py:188} INFO - Email enviado para lider_alfa@outlook.com com sucesso!
+[2025-04-27T15:24:29.962+0000] {logging_mixin.py:188} INFO - Email enviado para lider_alfa@outlook.com com sucesso!
+[2025-04-27T15:24:34.037+0000] {logging_mixin.py:188} INFO - Email enviado para lider_alfa@outlook.com com sucesso!
+[2025-04-27T15:24:34.037+0000] {python.py:201} INFO - Done. Returned value was: None
+[2025-04-27T15:24:34.045+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=email_sender, task_id=enviar_emails, execution_date=20250427T152404, start_date=20250427T152407, end_date=20250427T152434
+[2025-04-27T15:24:34.079+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2025-04-27T15:24:34.087+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

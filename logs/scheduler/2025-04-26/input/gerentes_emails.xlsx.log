@@ -1,0 +1,120 @@
+[2025-04-26T17:20:36.767+0000] {processor.py:161} INFO - Started process (PID=63) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:20:36.768+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:20:36.772+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:20:36.770+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:20:36.776+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:20:36.784+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.019 seconds
+[2025-04-26T17:21:06.968+0000] {processor.py:161} INFO - Started process (PID=71) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:21:06.969+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:21:06.971+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:21:06.971+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:21:06.972+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:21:06.982+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.017 seconds
+[2025-04-26T17:21:37.225+0000] {processor.py:161} INFO - Started process (PID=80) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:21:37.226+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:21:37.227+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:21:37.227+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:21:37.229+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:21:37.237+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.014 seconds
+[2025-04-26T17:22:07.488+0000] {processor.py:161} INFO - Started process (PID=89) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:22:07.489+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:22:07.490+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:22:07.490+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:22:07.492+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:22:07.501+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.016 seconds
+[2025-04-26T17:22:37.741+0000] {processor.py:161} INFO - Started process (PID=98) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:22:37.742+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:22:37.743+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:22:37.743+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:22:37.744+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:22:37.754+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.016 seconds
+[2025-04-26T17:23:07.979+0000] {processor.py:161} INFO - Started process (PID=113) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:23:07.980+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:23:07.981+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:23:07.981+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:23:07.982+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:23:07.989+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.012 seconds
+[2025-04-26T17:23:38.242+0000] {processor.py:161} INFO - Started process (PID=122) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:23:38.242+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:23:38.244+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:23:38.243+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:23:38.245+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:23:38.254+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.015 seconds
+[2025-04-26T17:24:08.466+0000] {processor.py:161} INFO - Started process (PID=131) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:24:08.467+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:24:08.468+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:24:08.468+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:24:08.469+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:24:08.477+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.013 seconds
+[2025-04-26T17:24:38.717+0000] {processor.py:161} INFO - Started process (PID=140) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:24:38.718+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:24:38.719+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:24:38.718+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:24:38.720+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:24:38.728+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.014 seconds
+[2025-04-26T17:25:08.980+0000] {processor.py:161} INFO - Started process (PID=149) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:25:08.981+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:25:08.982+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:25:08.982+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:25:08.983+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:25:08.990+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.013 seconds
+[2025-04-26T17:25:39.244+0000] {processor.py:161} INFO - Started process (PID=158) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:25:39.244+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:25:39.245+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:25:39.245+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:25:39.246+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:25:39.254+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.012 seconds
+[2025-04-26T17:26:09.468+0000] {processor.py:161} INFO - Started process (PID=167) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:26:09.469+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:26:09.471+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:26:09.470+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:26:09.473+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:26:09.482+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.017 seconds
+[2025-04-26T17:26:39.728+0000] {processor.py:161} INFO - Started process (PID=176) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:26:39.729+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:26:39.731+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:26:39.730+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:26:39.732+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:26:39.740+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.015 seconds
+[2025-04-26T17:27:09.996+0000] {processor.py:161} INFO - Started process (PID=185) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:27:09.996+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:27:09.998+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:27:09.998+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:27:10.000+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:27:10.011+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.020 seconds
+[2025-04-26T17:27:27.400+0000] {processor.py:161} INFO - Started process (PID=188) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:27:27.402+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:27:27.404+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:27:27.403+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:27:27.406+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:27:27.419+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.021 seconds
+[2025-04-26T17:27:28.414+0000] {processor.py:161} INFO - Started process (PID=189) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:27:28.414+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:27:28.415+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:27:28.415+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:27:28.417+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:27:28.435+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.023 seconds
+[2025-04-26T17:27:58.704+0000] {processor.py:161} INFO - Started process (PID=198) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:27:58.704+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:27:58.706+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:27:58.705+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:27:58.707+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:27:58.716+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.016 seconds
+[2025-04-26T17:28:28.994+0000] {processor.py:161} INFO - Started process (PID=207) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:28:28.995+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T17:28:28.996+0000] {logging_mixin.py:188} INFO - [2025-04-26T17:28:28.996+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:28:28.998+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T17:28:29.008+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.018 seconds
+[2025-04-26T18:53:11.278+0000] {processor.py:161} INFO - Started process (PID=63) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:53:11.280+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T18:53:11.281+0000] {logging_mixin.py:188} INFO - [2025-04-26T18:53:11.281+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:53:11.283+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:53:11.294+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.017 seconds
+[2025-04-26T18:53:41.344+0000] {processor.py:161} INFO - Started process (PID=70) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:53:41.345+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T18:53:41.346+0000] {logging_mixin.py:188} INFO - [2025-04-26T18:53:41.346+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:53:41.348+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:53:41.357+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.016 seconds
+[2025-04-26T18:54:11.643+0000] {processor.py:161} INFO - Started process (PID=85) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:54:11.644+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T18:54:11.645+0000] {logging_mixin.py:188} INFO - [2025-04-26T18:54:11.645+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:54:11.646+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:54:11.655+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.014 seconds
+[2025-04-26T18:54:41.916+0000] {processor.py:161} INFO - Started process (PID=94) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:54:41.917+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T18:54:41.919+0000] {logging_mixin.py:188} INFO - [2025-04-26T18:54:41.919+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:54:41.921+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:54:41.933+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.022 seconds
+[2025-04-26T18:55:12.173+0000] {processor.py:161} INFO - Started process (PID=103) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:55:12.174+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T18:55:12.175+0000] {logging_mixin.py:188} INFO - [2025-04-26T18:55:12.175+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:55:12.177+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:55:12.189+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.020 seconds
+[2025-04-26T18:55:42.460+0000] {processor.py:161} INFO - Started process (PID=112) to work on /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:55:42.461+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/input/gerentes_emails.xlsx for tasks to queue
+[2025-04-26T18:55:42.463+0000] {logging_mixin.py:188} INFO - [2025-04-26T18:55:42.462+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:55:42.465+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/input/gerentes_emails.xlsx
+[2025-04-26T18:55:42.476+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/input/gerentes_emails.xlsx took 0.021 seconds
