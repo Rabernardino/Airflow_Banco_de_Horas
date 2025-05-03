@@ -14,33 +14,28 @@ import os
 from datetime import datetime
 
 
-# Configuração da conta do email
+# Configurações iniciais dos dados do email utilizado, bem como do caminho da pasta de arquivo para envio.
 load_dotenv()
 EMAIL = os.getenv("EMAIL")
 SENHA = os.getenv("SENHA")
-
-# Caminho da pasta onde os arquivos csv estão armazenados
 PASTA_ENVIOS = os.getenv("PASTA_ENVIOS")
 
-# Função para enviar e-mail com anexo
+# Definição da função de envio do email (Recebendo o destinatario e o caminho onde estão localizados os arquivos base)
 def send_email(destinatario, file_path):
     try:
-        # Extrair o nome do gerente a partir do nome do arquivo
         nome_arquivo = file_path.split('/')[-1]
         nome_gerente = nome_arquivo.replace("teste_tratado_", "").replace(".xlsx", "")
 
-        # Criar mensagem do corpo do email
         msg = MIMEMultipart()
         msg['From'] = EMAIL
         msg['To'] = destinatario
         msg['Subject'] = "Relatório de Saldo de Banco de Horas"
 
-        # Mensagem customizada com o nome do gerente em questão
         corpo_email = f"""{nome_gerente}, bom dia! Segue anexo a lista do saldo de banco de horas dos colaboradores do time."""
 
         msg.attach(MIMEText(corpo_email, 'plain'))
 
-        # Anexar arquivo elaborado
+        #Feito a estrutura base do email, with para realizar o anexo do arquivo para o destinatario
         with open(file_path, "rb") as attachment:
             part = MIMEBase("application", "octet-stream")
             part.set_payload(attachment.read())
@@ -48,7 +43,6 @@ def send_email(destinatario, file_path):
             part.add_header("Content-Disposition", f"attachment; filename={file_path.split('/')[-1]}")
             msg.attach(part)
 
-        # Configurar servidor SMTP
         server = smtplib.SMTP("smtp.gmail.com", 587)
         server.starttls()
         server.login(EMAIL, SENHA)
@@ -61,7 +55,7 @@ def send_email(destinatario, file_path):
         print(f"Erro ao enviar e-mail para {destinatario}: {str(e)}")
 
 
-
+#Primeira etapa da DAG extraindo os dados disponiveis na tabela do banco.
 def extract_data(**kwargs):
     pg_hook = PostgresHook(postgres_conn_id = 'postgresql_padrao')
     sql_query = """SELECT * FROM public.tb_banco_horas WHERE "Saldo_Horas" < 0;"""
@@ -71,11 +65,12 @@ def extract_data(**kwargs):
 
     kwargs['ti'].xcom_push(key='dataframe_dados', value=df.to_json())
 
-
+#Segunda etapa construção dos arquivos contendo as informação para o envio
 def transform_data(**kwargs):
     ti = kwargs['ti']
     df = pd.read_json(ti.xcom_pull(key='dataframe_dados', task_ids='extract_data'))
 
+    #Unidade definida para validação do código
     df_tratado = df[df['Unidade'] == 'Unidade 9']
     
     output_dir = PASTA_ENVIOS
@@ -86,23 +81,19 @@ def transform_data(**kwargs):
         file_path = os.path.join(output_dir, f"teste_tratado_{nome_gerente_clean}.xlsx")
         df_tratado[df_tratado['Gerente_Tecnico'] == gerente].to_excel(file_path, index=False)
 
-
+#Terceira etapa chamando a função de envio, agregando os arquivo e efetivamente enviado para o destinatario
 def enviar_emails(**kwargs):
-    # Listar todos os arquivos na pasta de envios
     arquivos = [f for f in os.listdir(PASTA_ENVIOS) if f.endswith(".xlsx")]
 
     for arquivo in arquivos:
         file_path = os.path.join(PASTA_ENVIOS, arquivo)
         
         try:
-            # Ler o arquivo Excel como DataFrame
             df = pd.read_excel(file_path)
 
-            # Verificar se a coluna "email" existe
             if "Email" in df.columns:
-                destinatario = df["Email"].iloc[0]  # Pega o primeiro email encontrado
+                destinatario = df["Email"].iloc[0]
 
-                # Enviar e-mail com o arquivo como anexo
                 send_email(destinatario, file_path)
             else:
                 print(f"A coluna 'email' não foi encontrada no arquivo: {arquivo}")
